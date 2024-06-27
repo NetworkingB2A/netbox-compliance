@@ -1,7 +1,7 @@
 """Top-level package for NetBox Compliance Plugin."""
 
 __author__ = """Adam Angell"""
-__email__ = ""
+__email__ = "adam.angell@networkingb2a.com"
 __version__ = "0.1.0"
 
 

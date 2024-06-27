@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 name =  "netbox-compliance-plugin"
 version = "0.1.0"
 authors = [
-    {name = "Adam Angell", email = ""},
+    {name = "Adam Angell", email = "adam.angell@networkingb2a.com"},
 ]
 description = "NetBox plugin for Compliance."
 readme = "README.md"
